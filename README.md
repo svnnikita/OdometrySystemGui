@@ -1,6 +1,6 @@
 # Система одометрии мобильного робота на основе датчиков оптического потока
 
-![gui](https://github.com/svnnikita/OdometrySystemGui/tree/main/img.png)
+![gui](https://github.com/svnnikita/OdometrySystemGui/tree/main/img/img.png)
 
 Выпускная квалификационная работа студента группы 233 Савина Никиты.
 
