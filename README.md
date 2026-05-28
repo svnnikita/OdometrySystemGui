@@ -20,6 +20,3 @@ ___
 2) «[hh:mm:ss] MESSAGE: Stopped listening» — при завершении прослушивания,
 3) «[hh:mm:ss] ERROR: Failed to bind to port 8888» — в случае ошибки подключения к порту.
 
-
-
-
